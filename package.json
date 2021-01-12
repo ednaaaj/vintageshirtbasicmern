@@ -12,16 +12,8 @@
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IainLR/MERN-eCommerce.git"
-  },
   "author": "Jhondi Pamonag",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/IainLR/MERN-eCommerce/issues"
-  },
-  "homepage": "https://github.com/IainLR/MERN-eCommerce#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
